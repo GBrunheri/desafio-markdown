@@ -19,6 +19,7 @@
 
 \_Isso é todo \
 
+
     _Isso é todo **texto** simples_.
 
 
@@ -84,4 +85,7 @@ teste linkando o #1
 @githubteacher
 
 
-
+    PHP 
+    entendi
+    linhas com indentação sao copy paste blocks
+    $teste = 1;
