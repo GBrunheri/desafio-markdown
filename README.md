@@ -21,4 +21,50 @@
 
     _Isso é todo **texto** simples_.
 
+#### isso é texto h4
+##### isso é texto h5
+###### isso é texto h6
+
+
+![https://github.com/GBrunheri/desafio-markdown/blob/teste-markdown/walk.gif?raw=true](/walk.gif)
+
+
+###### Lista não ordenada
+- First
+    - aninhado 1
+    - aninhado 2
+        - mais aninhado
+- Second
+- Third
+
+
+### Testando Tabelas
+
+
+Primeiro | Segundo
+- | -
+teste | doisteste
+segundo | oposto
+tercerio | **terceiro**
+
+### citaçoes
+
+> É um texto citado... ficou azul no vscode.
+
+Aqui está uma <br> quebra de linha
+
+<div class="button">teste</div>
+
+```csharp
+var primeiro = 1;
+var segundo = 2; 
+var terceiro = 3;
+var quarto = 4;
+
+```
+
+teste linkando o #1 
+@githubteacher
+
+
 
