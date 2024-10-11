@@ -21,6 +21,16 @@
 
     _Isso é todo **texto** simples_.
 
+
+    _testando o copiar_.
+    _testando o copiar_.
+    _testando o copiar_.
+    _testando o copiar_.
+    _testando o copiar_.
+    _testando o copiar_.
+
+
+    
 #### isso é texto h4
 ##### isso é texto h5
 ###### isso é texto h6
@@ -53,7 +63,7 @@ tercerio | **terceiro**
 
 Aqui está uma <br> quebra de linha
 
-<div class="button">teste</div>
+<button class="button">teste</button>
 
 ```csharp
 var primeiro = 1;
