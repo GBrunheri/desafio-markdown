@@ -11,8 +11,10 @@
 
  Desafio 01 da formação Github Certification da DIO.ME
 
-[ ] teste
-[x] teste concluido
-[ ] subteste **negrito**
-[x] *marcado italico*
-**[x]** x _**negrito e ialico**_
+- [ ] teste
+- [x] teste concluido
+- [ ] subteste **negrito**
+- [x] *marcado italico*
+- **[x]** x _**negrito e ialico**_
+
+
