@@ -17,7 +17,7 @@
 - [x] *marcado italico*
 - [x] _**negrito e ialico**_
 
-\_Isso é todo \*\*texto\*\* simples\_.
+\_Isso é todo \
 
     _Isso é todo **texto** simples_.
 
