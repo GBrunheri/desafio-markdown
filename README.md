@@ -15,6 +15,10 @@
 - [x] teste concluido
 - [ ] subteste **negrito**
 - [x] *marcado italico*
-- **[x]** x _**negrito e ialico**_
+- [x] _**negrito e ialico**_
+
+\_Isso é todo \*\*texto\*\* simples\_.
+
+    _Isso é todo **texto** simples_.
 
 
