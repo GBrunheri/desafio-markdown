@@ -30,7 +30,7 @@
     _testando o copiar_.
 
 
-    
+
 #### isso é texto h4
 ##### isso é texto h5
 ###### isso é texto h6
@@ -52,7 +52,14 @@
 
 
 Primeiro | Segundo
-- | -
+-|-
+1 | 2
+3 | 4
+
+
+
+Primeiro | Segundo
+-|-
 teste | doisteste
 segundo | oposto
 tercerio | **terceiro**
